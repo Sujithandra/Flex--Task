@@ -1,0 +1,40 @@
+.container{
+    display:flex;
+    border:1px solid black;
+    flex-direction:column;
+    height:600px;
+}
+.ssss{
+    border:1px solid black;
+    font-size:20px;
+}
+.item-1{
+    background-color:aqua;
+    display:flex;
+    justify-content:center;
+    flex:10;
+}
+.item-2{
+    display:flex;
+    flex:80;
+}
+.item-a{
+    background-color:yellow;
+    display:flex;
+    flex:20;
+    justify-content:center;
+    align-items:center;
+}
+.item-b{
+    background-color:violet ;
+    display:flex;
+    flex:80;
+    justify-content:center;
+    align-items:center;
+}
+.item-3{
+    background-color:pink;
+    display:flex;
+    justify-content:center;
+    flex:10;
+}
