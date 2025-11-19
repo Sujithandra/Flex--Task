@@ -1,43 +1,50 @@
-## 🌐 Simple HTML & CSS Webpage (CSS Grid Layout)
+## 🌐 Simple HTML & CSS Webpage (Flexbox Layout)
 This project contains a clean and responsive webpage built using HTML and CSS Flexbox.
 It demonstrates webpage structure, styling, and modern layout using the Flex concept in CSS.
 
 ----------
 
 ## 📁 Project Structure
-├── one.html
+├── READ.md
 
-├── one.css
+├─ second.html
 
-└── aaaaa/suj/   (optional folder)
+└── second.css
 
 ## 📌 File Descriptions
-1️. one.html
-Main file that contains the webpage structure.
-Includes headings, content blocks, and sections.
-Linked with one.css for styling.
-Uses Grid-based wrappers for layout arrangement.
+1️. second.html
+- Main HTML file of the webpage.
+- Contains the structure such as headings, containers, paragraphs, and buttons.
+- Links to second.css for styling.
+- Uses Flexbox containers for layout arrangemen
 
-2️. one.css
-Stylesheet containing all design properties.
-Uses CSS Grid to create columns, rows, and item placement.
-Contains spacing, color, borders, and UI styling.
+2️. second.css
+- Provides styling for the HTML page.
+- Uses Flexbox (display: flex) to align items horizontally and vertically.
+- Contains classes for layout, colors, spacing, and responsiveness.
 
 ----------------
 
-## ⭐ CSS Grid Concept Used in This Project
-CSS Grid is the main layout system used in this project
-## 🔥 What is CSS Grid?
-CSS Grid Layout is a 2D layout system that provides full control over rows and columns.
-It is more powerful and flexible than Flexbox when building full-page or section layouts.
+## ⭐ Flexbox Concept Used in This Project
+The core layout of this project is built using CSS Flexbox.
+## 🔥 What is Flexbox?
+Flexbox (Flexible Box Layout) is a CSS layout module that helps design responsive and aligned layouts with ease.
 
 -----------------
+
+## Why Flexbox?
+- Makes alignment simple
+- Automatically adjusts spacing
+- Works great for horizontal/vertical layouts
+- Very useful for responsive UI
+
+--------
 ## 🚀 Features
 - ✔️ Clean HTML structure
-- ✔️ CSS Grid for modern layout
-- ✔️ Fully responsive design
+- ✔️ External CSS for styling
+- ✔️ Flexbox for modern layout
+- ✔️ Responsive and simple design
 - ✔️ Beginner-friendly code
-- ✔️ Organized folder structure
 
 
 
